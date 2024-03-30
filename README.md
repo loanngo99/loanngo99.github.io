@@ -14,6 +14,24 @@
 <a href="[Liên kết cần đến]">liên kết</a>
 ```
 
+## Cấu trúc template
+
+Để định dạng cấu trúc html cho title và header, dùng cấu trúc bên dưới và dán code được tạo vào phần body.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    [Dán code ở đây]
+</body>
+</html>
+```
+
 ## Benefits
 
 * Hỗ trợ công việc nhanh hơn, thay vì tập trung vào tạo UI như trước mọi người có thể nhờ sự support của AI để có thể tập trung vào code backend và những logic khác.
