@@ -32,6 +32,12 @@
 </html>
 ```
 
+## Anima Issue
+
+Vấn đề mà mọi người không lấy được code là vì mọi người chưa chuyển trạng thái. Mọi người kiếm tra lại cài đặt theo hình bên dưới để generate lại code nha!
+
+![Guide](./img/guide.png)
+
 ## Benefits
 
 * Hỗ trợ công việc nhanh hơn, thay vì tập trung vào tạo UI như trước mọi người có thể nhờ sự support của AI để có thể tập trung vào code backend và những logic khác.
